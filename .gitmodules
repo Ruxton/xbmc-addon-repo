@@ -1,0 +1,3 @@
+[submodule "plugin.audio.goonbag"]
+	path = plugin.audio.goonbag
+	url = git@github.com:Ruxton/plugin.audio.goonbag.git

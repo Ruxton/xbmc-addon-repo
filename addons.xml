@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.audio.goonbag" version="0.1" name="Goonbag Radio" provider-name="Ruxton">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+        <import addon="script.module.beautifulsoup"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Listen to live streams from Goonbag Radio.</summary>
+        <description>Check out http://goonbag.com</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+</addons>
