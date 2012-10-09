@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.audio.goonbag" version="0.1" name="Goonbag Radio" provider-name="Ruxton">
+<addon id="plugin.audio.goonbag" version="0.2" name="Goonbag Radio" provider-name="Ruxton">
     <requires>
         <import addon="xbmc.python" version="1.0"/>
         <import addon="script.module.beautifulsoup"/>
@@ -12,6 +12,11 @@
         <summary>Listen to live streams from Goonbag Radio.</summary>
         <description>Check out http://goonbag.com</description>
         <platform>all</platform>
+    </extension>
+    <extension point="xbmc.addon.repository" name="Ruxton's XBMC Addon Repository">
+        <info compressed="false">https://raw.github.com/Ruxton/xbmc-addon-repo/master/addons.xml</info>
+        <checksum>https://raw.github.com/Ruxton/xbmc-addon-repo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/Ruxton/xbmc-addon-repo/raw/master/repo/</datadir>
     </extension>
 </addon>
 
