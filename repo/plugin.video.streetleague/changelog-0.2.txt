@@ -1,0 +1,7 @@
+----------------------------------
+ plugin.audio.goonbag - Changelog
+----------------------------------
+
+Version 0.2
+------------
+* Bump dependencies for Gotham

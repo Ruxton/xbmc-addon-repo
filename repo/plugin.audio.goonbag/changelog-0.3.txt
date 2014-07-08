@@ -1,0 +1,7 @@
+----------------------------------
+ plugin.audio.goonbag - Changelog
+----------------------------------
+
+Version 0.3
+------------
+* Graphics for channels

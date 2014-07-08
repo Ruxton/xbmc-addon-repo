@@ -1,0 +1,7 @@
+----------------------------------
+ plugin.audio.goonbag - Changelog
+----------------------------------
+
+Version 0.2
+------------
+* Addon self updates
