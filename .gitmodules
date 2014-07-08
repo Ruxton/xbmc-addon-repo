@@ -4,3 +4,6 @@
 [submodule "repository.ruxton"]
 	path = repository.ruxton
 	url = git@github.com:Ruxton/repository.ruxton.git
+[submodule "plugin.video.streetleague"]
+	path = plugin.video.streetleague
+	url = git@github.com:Ruxton/plugin.video.streetleague.git

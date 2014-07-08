@@ -2,6 +2,18 @@
  plugin.audio.goonbag - Changelog
 ----------------------------------
 
+Version 0.4
+------------
+* Updated for new servers
+
+Version 0.3
+------------
+* Graphics for channels
+
+Version 0.2
+------------
+* Addon self updates
+
 Version 0.1
 ------------
 * Initial release
