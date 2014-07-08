@@ -2,6 +2,6 @@
  plugin.video.streetleague - Changelog
 ---------------------------------------
 
-Version 0.2
-------------
-* Bump dependencies for Gotham
+Version 0.2.1
+-------------
+* Fix fat finger mistake in user agent
