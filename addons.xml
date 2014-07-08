@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.audio.goonbag" version="0.2" name="Goonbag Radio" provider-name="Ruxton">
+<addon id="plugin.audio.goonbag" version="0.4" name="Goonbag Radio" provider-name="Ruxton">
     <requires>
         <import addon="xbmc.python" version="1.0"/>
         <import addon="script.module.beautifulsoup"/>
