@@ -1,0 +1,8 @@
+---------------------------------------
+ plugin.video.streetleague - Changelog
+---------------------------------------
+
+Version 0.3.0
+-------------
+* Better naming of initial menu items
+* Adds 2015 by Location
